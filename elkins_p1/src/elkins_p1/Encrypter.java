@@ -2,7 +2,7 @@ package elkins_p1;
 
 	import java.util.Scanner;
 
-	public class encrypt {
+	public class Encrypter {
 		public static int []Encrypt(int M[])
 		{
 			int n=M.length;

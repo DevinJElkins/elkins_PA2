@@ -2,7 +2,7 @@ package elkins_p1;
 
 import java.util.Scanner;
 
-public class decrypt {
+public class Decrypter {
 	public static int []Decrypt(int M[])
 	{
 		int N[]=new int[M.length];
